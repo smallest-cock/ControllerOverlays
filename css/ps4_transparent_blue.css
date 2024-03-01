@@ -1,10 +1,10 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/purple/base.png);
+  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/base/blue_base.svg);
   height: 598px;
   width: 806px;
   /*    margin-left: -403px;
-        margin-top: -280px;*/
+            margin-top: -280px;*/
 }
 
 .ds4.disconnected {
@@ -178,7 +178,7 @@
 
 .ds4 .stick {
   position: absolute;
-  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/purple/sticks.png);
+  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/sticks/blue_sticks.svg);
   height: 94px;
   width: 94px;
 }
@@ -210,7 +210,7 @@
 }
 
 .ds4 .face {
-  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/purple/dpad.png);
+  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/dpad/blue_dpad.svg);
   position: absolute;
 }
 
