@@ -11,6 +11,17 @@ Some nice looking GamePad Viewer overlays
 
 ### Mine
 
+<img src="./images/SSLow_ps4.png" width=400>
+
 ```
-https://gamepadviewer.com/?p=1&s=5&editcss=https://temp.staticsave.com/65e19989b18c2.css
+https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/ControllerOverlays/css/sslow_rl_ps4.css
 ```
+
+### Purple transparent
+
+<img src="" width=400>
+
+```
+https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/ControllerOverlays/css/transparent_purple_ps4.css
+```
+
