@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="-870 489 178.5 104" style="enable-background:new -870 489 178.5 104;" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg x="0px" y="0px"
+	 width="178.5px" height="104px" viewBox="-870 489 178.5 104" style="enable-background:new -870 489 178.5 104;" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
   <defs>
     <filter id="hue-rotate-filter-0" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%" bx:preset="hue-rotate 1 90">
       <feColorMatrix type="hueRotate" values="90"/>

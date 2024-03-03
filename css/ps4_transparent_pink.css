@@ -1,94 +1,93 @@
-/*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/base/pink_base.svg);
+    background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/base/pink_base.svg);
 }
 
 .ds4.disconnected div {
-  display: none;
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/disconnected.svgz);
 }
 
 .ds4 .trigger {
-  background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/triggers.svgz);
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/triggers.svgz);
 }
 
 .ds4 .bumper {
-  background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/bumper.svgz) no-repeat;
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/bumper.svgz) no-repeat;
 }
 
 .ds4 .touchpad.pressed {
-  background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/touchpad.svgz) no-repeat center;
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/touchpad.svgz) no-repeat center;
 }
 
 .ds4 .meta.pressed {
-  background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/meta.svgz) no-repeat center;
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/meta.svgz) no-repeat center;
 }
 
 .ds4 .arrows {
-  position: absolute;
-  width: 352px;
-  height: 46px;
-  top: 142px;
-  left: 227px;
+    position: absolute;
+    width: 352px;
+    height: 46px;
+    top: 142px;
+    left: 227px;
 }
 
 .ds4 .back,
 .ds4 .start {
-  background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/start.svgz);
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/start.svgz);
 }
 
 .ds4 .back.pressed,
 .ds4 .start.pressed {
-  /* background-position-y: -21px; */
-  /* margin-top: 2px; */
-  opacity: 1;
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
 }
 
 .ds4 .abxy {
-  position: absolute;
-  width: 170px;
-  height: 171px;
-  top: 159px;
-  left: 567px;
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
 }
 
 .ds4 .button {
-  position: absolute;
-  width: 55px;
-  height: 55px;
-  background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/face.svgz);
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/face.svgz);
 }
 
 .ds4 .button.pressed {
-  background-position-y: 55px;
-  /* margin-top: 5px; */
+    background-position-y: 55px;
+    /* margin-top: 5px; */
 }
 
 .ds4 .a {
-  background-position: 0 0;
-  bottom: 0;
-  left: 58px;
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
 }
 
 .ds4 .b {
-  background-position: -57px 0;
-  top: 58px;
-  right: 0px;
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
 }
 
 .ds4 .x {
-  background-position: -113px 0;
-  top: 58px;
+    background-position: -113px 0;
+    top: 58px;
 }
 
 .ds4 .y {
-  background-position: 55px 0;
-  left: 58px;
+    background-position: 55px 0;
+    left: 58px;
 }
 
 .ds4 .stick {
-  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/sticks/pink_sticks.svg);
+    background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/sticks/pink_sticks.svg);
 }
 
 .ds4 .face {
-  background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/dpad/pink_dpad.svg);
+    background: url(https://smallest-cock.github.io/ControllerOverlays/PS4/transparent/dpad/pink_dpad.svg);
 }
