@@ -20,7 +20,7 @@ https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/Contr
 
 ### Pink transparent
 
-<img src="" width=400>
+<img src="./images/trans_pink.png" width=400>
 
 ```
 https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/ControllerOverlays/css/ps4_transparent_pink.css
@@ -28,7 +28,7 @@ https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/Contr
 
 ### Blue transparent
 
-<img src="" width=400>
+<img src="./images/trans_blue.png" width=400>
 
 ```
 https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/ControllerOverlays/css/ps4_transparent_blue.css
@@ -36,7 +36,7 @@ https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/Contr
 
 ### Gray transparent
 
-<img src="" width=400>
+<img src="./images/trans_gray.png" width=400>
 
 ```
 https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/ControllerOverlays/css/ps4_transparent_gray.css
