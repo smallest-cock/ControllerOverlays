@@ -1,10 +1,10 @@
 # ControllerOverlays
 Some nice looking GamePad Viewer overlays
 
-### How to use (in OBS)
+### How to use in OBS
 1. Add a new browser source
 2. Double click the source to open properties
-3. Copy/paste any one of the URLs below into the URL field
+3. Copy/paste any one of the URLs below into the **URL** field
 4. Click OK
 
 ## PS4
@@ -43,10 +43,4 @@ https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/Contr
 ```
 
 
-## Mine
-
-<img src="./images/SSLow_ps4.png" width=400>
-
-```
-https://gamepadviewer.com/?p=1&s=5&editcss=https://smallest-cock.github.io/ControllerOverlays/css/ps4_transparent_sslow.css
-```
+## [Mines](./PS4/transparent/mines/mines.md)
